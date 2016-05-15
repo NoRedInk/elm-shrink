@@ -1,5 +1,5 @@
 
-# Retired:
+# Depricated
 
 
 In Elm 0.17, this has been moved to elm-community [here](https://github.com/elm-community/elm-shrink). Please open all issues and PRs there!
