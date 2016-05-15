@@ -1,3 +1,11 @@
+
+# Retired:
+
+
+In Elm 0.17, this has been moved to elm-community [here](https://github.com/elm-community/elm-shrink). Please open all issues and PRs there!
+
+
+
 # Shrinking strategies with elm-shrink
 
 elm-shrink is a library for using and creating shrinking strategies. A
